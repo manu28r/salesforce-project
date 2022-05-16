@@ -1,0 +1,44 @@
+=====================================
+SESSION Start Date : 16th May 2022
+BATCH TIMING : 7.30PM To 9PM
+=====================================
+SALESFORCE CRM BASICS & INTRODUCTION
+=====================================
+Product Based Company ----> Service Based Company ---> Clients
+
+Customer Relationship Managments.
+==================================
+Salesforce is not a Technology
+Salesforce is a Company CRM
+On the Model of Cloud Computing.
+
+1.There are Manily Two types of Application.
+	1.1 : On-Premise Application
+	============================
+	->It required the Pre-Installation of Application / Softwares into you local M/c (laptop / desktop/Tablet)
+	
+	Ex: Microsoft Office / AdobeReder / Browser / C / C++ / Java
+	
+	
+	1.2 : On-Demand Application(Cloud Application)
+	==============================================
+	-> It does Not required Any installation.
+	-> We Just need a Browser a Internet Connection and username & Password.
+	Ex : GMAIL / FLIPKART /IRCTC WEBSITE
+
+
+Cloud Computing
+================
+it is a concept which provides the various approches (ways) to access each IT service resources over a Internet by using devices. and by paying the rental Amount.
+
+
+
+
+
+
+
+
+
+
+
+
