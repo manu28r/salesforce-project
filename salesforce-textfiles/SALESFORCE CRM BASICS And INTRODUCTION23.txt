@@ -1,0 +1,306 @@
+=====================================
+SESSION Start Date : 16th May 2022
+BATCH TIMING : 7.30PM To 9PM
+=====================================
+SALESFORCE CRM BASICS & INTRODUCTION
+=====================================
+Product Based Company ----> Service Based Company ---> Clients
+
+Customer Relationship Managments.
+==================================
+Salesforce is not a Technology
+Salesforce is a Company CRM
+On the Model of Cloud Computing.
+
+1.There are Manily Two types of Application.
+	1.1 : On-Premise Application
+	============================
+	->It required the Pre-Installation of Application / Softwares into you local M/c (laptop / desktop/Tablet)
+	
+	Ex: Microsoft Office / AdobeReder / Browser / C / C++ / Java
+	
+	
+	1.2 : On-Demand Application(Cloud Application)
+	==============================================
+	-> It does Not required Any installation.
+	-> We Just need a Browser a Internet Connection and username & Password.
+	Ex : GMAIL / FLIPKART /IRCTC WEBSITE
+
+Date : 17th May 2022
+=====================
+Cloud Computing
+=====================
+it is a concept which provides the various approches (ways) to access each IT service /resources over a Internet by using devices. and by paying the rental Amount.
+
+Use of Cloud Computing
+=======================
+	1.we can build New Application & Services by using Cloud Computing.
+	2.We can restore and Backup our data by using cloud Computing.
+	3.No need to install any SOftware for using Cloud Application(On-Demand Application.)
+	4.We can Host our Website our Blogs to internet.
+	5.We can strem Audio and Videos over the Internet.
+	6.We can create on-Demand Application using cloud Computing.
+
+Benifits Of Cloud Computing
+============================
+1.Cost
+2.Speed.
+3.Performance.
+
+Classification of Cloud Computing
+=================================
+1.SAAS(Software As a Service)
+=============================
+1.1 : When Customers / Anyperson are accessing the "REDYMADE" Application / Softwares on Rental basis (Some time Free) is called as SAAS(software as a service)
+EX : GMAIL / FLIPKART / IRCTC WEBSITE /REDBUS / Amazon and All OTT Platform	
+
+2.PAAS(Platform As a Service)
+===============================
+When Customer or Anyperson accessing The development Platform on rental basis then it is called as PAAS(Platform As a Service).
+
+3.IAAS(Infrastructure As a Service)
+===================================
+When Customers or any person are accessing the Servers Resources on rental Basis then it is called as IAAS(Infrastructure As a Service)
+
+Cloud Computing Vendors
+========================
+Worlds No 1 CRM (SALESFORCE CRM) 
+=================================
+1.Amazon 
+2.Microsoft.
+3.Google.
+4.Adobe 
+5.VMWARE.
+6.IBM
+7.Oracle.
+8.SAP.
+9.Verizon.
+10.Dropbox.
+
+CRM Basics
+===========
+CRM Refers to Customer Relationship Managments
+
+1.CRM SYSTEM is an Application / Tool that allows to manage the customer data / Information All in one Place.
+2.By using CRM we can track the Information of New and existing customer. in an Organization.
+3.With the help of YOUR CRM we can maintain the 360 degree view of Our Customer.
+
+Improved Customer Relationship.
+Increased Revenu
+Improved customer service.
+Improved Analytical Data and Reporting and dashbord.
+
+CRM Terminology
+================
+Campaign / Marketing
+---------------------
+1.It is a way to promote the organization Product / Service.
+
+Lead
+-----
+1.The Person / Organization (Big / Small) show the intrest in your Product or service.
+
+Account & Opportunity
+----------------------
+When That Person buy the Product or service then that Lead becone your Customer(Account) 
+Opportunity(If Revenue Get Genrated.)
+
+Case
+-----
+-----------------------------------------------------------------
+SALESFORCE
+===========
+1.Salesforce is a Company(Organization) which Provides you the cloud Service on a single Place.
+2.Salesforce works On the Model of Cloud computing.
+	SAAS / PAAS / IAAS
+3.Founded by Marc Benioff in 1999.
+==========================================
+1.Salesforce.com (Software As a Service)
+==========================================
+1.Sales CLoud(Sales Application)
+--------------------------------
+1.1: By using This Sales CLoud or By using The features of Sales Cloud you can automate your Sales Process.
+
+2.Service Cloud(Service Application)
+------------------------------------
+2.1 : By using this Service Cloud you can automate your service process or support process for customer.
+
+3.Marketing Cloud (Marketing Application)
+-----------------------------------------
+3.1 : By using this Marketing Application or Marketing CLoud we can Automate our Marketing Process(campgain / hording / Email Marketing etc etc)
+
+4.App Cloud
+------------
+By using thhis App Cloud we can Built our Own Custom Application or We can modify the standard(Default) Application.
+========================================
+2.Force.com(PAAS)
+========================================
+2.1 : Apex Progrming Language.(Object Orented Programing).
+2.2 : Lightning Aura Components
+2.3 : Lightning Web Components.
+===============================
+3.Database.com(IAAS)
+===============================
+3.1 : It stores All your customer Data.
+3.2 : Salesforce Maintain Disaster Recovery centers.
+
+Salesforce Release
+===================
+1.Salesforce Keep on Providing the latest features as a part of new release or Updation.
+2.Salesforce provide 3 Releases Per year  which are seasonal basis.
+
+	Salesforce.com(SAAS)
+	Force.com(PAAS)
+	Database.com(IAAS)
+
+1.Winter 22 Release.
+2.Spring 22 Release.
+3.Summer 22 Release.
+
+Server Instance Of Salesforce
+==============================
+Salesforce has spread their bussiness into 3 Regions.
+
+	1.North America(NA).
+	2.Europe Region(EU /EMEA).
+	3.Asia Pacific Region(AP) : --India.
+	
+Salesforce Editions
+====================
+Salesforce Provides 2 Types Editions.
+
+1.Paid Edition.
+----------------
+	1.1 : Lightning Essential(Group Edition).
+	1.2 : Lightning Professional Edition(Professional Edition).
+	1.3 : Lightning Enterprise Edition (Enterprise Edition).
+	1.4 : Unlimited Edition.
+	
+2.Free Edition.
+-----------------
+	2.1: 30-Days Trail Account.
+	
+	2.2: Permenent Account(Org) (Free developer Org).
+
+Creating Free Developer Account
+=================================
+Creating free developer Account involves 2 Steps as Below.
+
+Step 1: Create the Free Developer Account.
+-------
+	Launch the URL : https://developer.salesforce.com/signup
+	
+		1.Enter your FirstName.
+		2.Enter Your LastName.
+		3.Enter Your Email ID.(valid).
+		4.Enter The Company Name : CloudHAK
+		5.Select title / Designation from Picklist:
+		    (Admin / Developer /Manager) 
+        6.Select your Country from Picklist.
+		7.Enter your Zip Code.
+		8.Enter Your userName : hak@cloudhak.in
+		9.Click on "Sign Me Up" button.
+		
+		Observation
+		-----------
+		It will create your salesforce Account(org)
+		                    
+Step 2
+-------
+	Activate your salesforce Account.
+		1.Goto the Email.
+		2.open the email recived by Salesforce.com.
+		3.Click on "verify" account button.
+		4.Enter the Password --> Confirm Password.
+		5.Change Password Button.
+		
+Login into salesforce Account		
+------------------------------
+URL : login.salesforce.com.
+		Enter your Username.
+		Enter your password.
+		Elick on Login.
+
+When ever you create a salesforce Org Then Salesforce will allocate a unique identification Number called "Salesforce.com Organization ID" and that Id will be 18-Character Alphanumerical which start with "OOD"
+
+->We can verify the Organization Id with Some Navigation.
+
+Navigation
+-----------
+Click on "Setup" Menu.
+	1.Goto "Administer" Menu in left Pannel.
+	2.Click on "Company Profile" and Expand It.
+	3.Click on "Company Information".
+	4.Goto The field "Salesforce.com Organization ID"
+	   (SF ORG ID :00D5i000002Qc9M)
+	
+Notes:-
+
+	Upon creating a salesforce Org / Account salesforce Provides a Set of readymade Application by defult (Standard Application).
+	
+	EX : Sale , Service , Marketing, salesforce chatters.
+
+    by using this Application we can automate our bussiness Process.
+	
+	To Store The data related to the Organization / business  Salesforce Provide a set of redymade object(Database tabel).
+	
+	EX : Campaign , Lead , Account , Contact , Opportunity , Case ,solution , Order , feedback etc.
+
+
+
+Tabs in Salesforce
+===================
+1.Tab Provides a set of GUI to manage the records in Associated Object.
+2.By using tab we can Manipulate the data / record in the object.
+3.An Object can be associated with only one TAB 
+(Object to Tab we have one - to - one association)
+4.Salesforce will display All the Tab names with the "Plural" format.
+
+
+	SrNo   Object Name        Tab Name
+	===================================
+	1.		Campaign          Campaigns
+    2.      Lead              Leads
+    3.      Account           Accounts 
+    4.      Contact           Contacts
+    5.      Case              cases.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
