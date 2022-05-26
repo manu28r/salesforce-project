@@ -1,0 +1,129 @@
+Date :24/05/2022 
+----------------------
+Objects In Salesforce
+======================
+1.Object represent The Tabel in Salesforce.
+2.Object can be used to store the Organization Specific data or Application Specific Data in Salesforce.
+3.All objects in Salesforce get resides into Database.com(Salesforce own Database). 
+
+Salesforce Provides Two types of Object
+========================================
+1.Standard Object.
+-------------------
+1.The Object Which is given by Salesforce by default (Redymade) upon creating a salesforce organization.
+
+Example : Account , Contact , Lead , Opportunity , Cases ,Solution , Feedback etc.
+
+2.We Can not delete This Standard Object from the Salesforce.
+3.We can customize the standard Object in Salesforce but to a certain Level.
+
+Classic Navigation
+-------------------
+Navigation : Setup --> Build section in Left Pannel.
+                   --> Click on Customize And Exapand.
+				   
+Lightning Navigation
+---------------------
+	1.Switch to Lightning Experience
+	2.Click on Wrench Icon
+	3.CLick on Setup Option.
+	4.In left Side Click on "object Manager Tab"
+
+2.Custom Object.
+-------------------
+1.Salesforce Allows us to create our own Object in Org based on the Application Requirement or Need.
+2.Custom Object is also used to store the Application specific Data in Salesforce.
+3.We can Manupulate the custom object as per our need.
+4.We can delete the custom object from the salesforce.
+
+Navigation For creating Custom Object
+======================================
+Classic View Navigation
+------------------------
+-->Go to "Setup".
+	|-->Go to "Build" Section In Left Pannel.
+		|-->Go to "Create" end Expand It.
+			|-->Click on "Object" Link and Open it.
+				|-->Click on "New Custom Object Button".
+
+Lghtning View Navigation
+------------------------
+-->Goto Wrench Icon and Select "Setup"
+-->Goto "Object Manager Tab" In Left Side.
+-->Click on "Object Manager Tab Click on "Create Button" on Right Side.
+
+Task 1
+--------
+Create a Custom Object with Name as "Position"
+
+When ever you are creating a custom object salesforce Provides 4 standard field Automaticaly.
+
+1.Created By
+2.Last Modified By.
+3.Owner.
+4.Object Name (Text / Autonumber) 
+
+Custom Object naming Format
+---------------------------
+
+Label     Object Name      Object API Name
+-------------------------------------------
+Position  Position         Position__c
+Student   Student          Student__c 
+
+Standard Object Naming Format
+-----------------------------
+Label     Object Name      Object API Name
+-------------------------------------------
+Account    Account          Account
+Lead       Lead             Lead
+contact    Contact          Contact
+Opportunity  Opportunity    Opportunity
+
+
+
+ObjectType     Object Name      Object ID        Record ID
+=================================================================
+Standard       Account          001              0015i000007LWa4   
+Standard       Lead             00Q              00Q5i000003RgKj        
+Standard       Contact          003              0035i000006MzaP 
+-----------------------------------------------------------------
+Custom         Position         a01              a015i00000DuSz4
+-----------------------------------------------------------------        
+https://cloudhak2-dev-ed.my.salesforce.com/001/o -->Account
+https://cloudhak2-dev-ed.my.salesforce.com/00Q/o -->Lead
+https://cloudhak2-dev-ed.my.salesforce.com/003/o -->Contact
+
+https://cloudhak2-dev-ed.my.salesforce.com/a01/o
+
+https://cloudhak2-dev-ed.my.salesforce.com/0015i000007LWa4
+------------------------------------------------------------------
+
+Assingment 1
+-------------
+1.Create a Custom Object with Name as "Position"
+2.Create a Custom Object with Name "Hiring Manager"
+3.Create a Custom Object with Name "Student Information".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
